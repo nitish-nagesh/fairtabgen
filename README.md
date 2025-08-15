@@ -22,14 +22,3 @@ R -e "install.packages(c('faircause', 'dplyr', 'ggplot2'))"
 1. Navigate to `Code/` directory
 2. Follow README files in each subfolder
 3. Run scripts and notebooks as instructed
-
-## 📝 Citation
-
-```bibtex
-@article{fairtabgen2024,
-  title={FairTabGen: Unifying Counterfactual and Causal Fairness in Synthetic Tabular Data Generation},
-  author={[Authors]},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
